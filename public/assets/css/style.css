@@ -1,0 +1,32 @@
+.header {
+	margin-bottom: 20px
+}
+
+.header h1 {
+	text-decoration: underline;
+}
+
+.header h1 {
+	text-decoration: underline;
+}
+
+.header a {
+	margin-top: 10px;
+}
+
+.main {
+	border: 2px solid #333;
+	padding: 0px 20px;
+}
+
+.main section {
+	padding-top: 20px;
+}
+
+.main h3 {
+	margin:0;
+}
+
+.main a {
+	margin-top: 10px;
+}
